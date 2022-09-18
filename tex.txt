@@ -4,3 +4,13 @@
 # se les da un tamaño y se les pone una alado de la otra
 
 ##se posicionan los botones
+
+###Javascript
+
+## traer el contenedor de los sliders
+## traer los sliders
+## meter en una variables el ultimo slider
+## colocar el ultimo slider antes del inicio de los slider
+## enfocar en el slider con los botones
+
+## traer los botones 
