@@ -2,3 +2,5 @@
 # crear 4 divs (slider) o los que nesecitemos
 #se le agregan 4 imagenes
 # se les da un tamaño y se les pone una alado de la otra
+
+##se posicionan los botones
