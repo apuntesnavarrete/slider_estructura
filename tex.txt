@@ -14,3 +14,11 @@
 ## enfocar en el slider con los botones
 
 ## traer los botones 
+
+
+##Crear funtion del boton next
+## el boton va a modificar el margin left del elemento enfocado para hacer un efecto de transicion
+
+##hay que mover el ultimo elemento al otro lado y asi quedar ocmo al inicio
+
+##hacemos lo mismo con el boton rigth pero hacia el lado contrario 
